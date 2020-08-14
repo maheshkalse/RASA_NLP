@@ -1,0 +1,123 @@
+## intent:location_inquiry
+- i kneed location
+- show me location
+- need location
+- location
+- places
+- do you know where is [il7](location)
+- where is [IL4](location)
+- where is [IL5](location)
+- wher is [IL1](location)
+- where is [IL2](location)
+- where is [IL3](location)
+- where is the [IL6](location)
+- where is the [IT department](location)
+- where is the [Electrical Department](location)
+- where is the [CSE department](location)?
+- where id the [Auto department](location)
+- where is the [Mach department](location)
+- where is [gym](location) location
+- give me a [library](location) location
+- i want to go to [canteen](location)
+- whre is the [library](location)
+- where I can go [workout](location)
+- where is the [pricipal office](location)?
+- where is the [parking](location) for the [hosteler](student)
+- where is the [parking](location)
+- where do I [park](location) my bike?
+- where is the [parking](location) for non [hostelers](student)
+- where is [IT department](location)
+- where is [library](location)
+- where is [IL1](location)
+- where in the parking for [day scholar](student)
+- where is the [office](location)
+- [library](location)
+- [gym](location)
+- [IT department](location)
+- [IL1](location)
+
+## intent:procedure_inquiry
+- i want a document
+- i need a document
+- give me a procedure
+- how to make [bonafide](document)
+- how to make [bonafide](document) certificate?
+- how to get [bonafide](document) certificate?
+- how can I make [binafide](document)
+- i want [bonafide](document) certificate
+- i need a [bonafide](document) certificate
+- procedure to get [bonafide](document) certificate.
+- where i get [bonafide](document) certificate
+- how to make new [ID card](document)?
+- i want a new [ID card](document)
+- i need a new [ID card](document)
+- how can i make a new [ID card](document)
+- i want new [Identity card](document)
+- procedure to application of new [Idenatity card](document)
+- whare i get new [ID card](document)
+- where to I can get [consasion form](document)
+- how to get [consasion form](document)
+- how to make a [consasion form](document)
+- i need a [consasion form](document) for my traveling.
+- procedure to get [consasion form](document)
+- how to get [consasion form](document)?
+- how to get [travaling concetion](document)?
+- how to get college [email](document)?
+- how to create collage [email](document) account?
+- procedure to get new collage [email](document)
+- how to make a collage [email](document)
+- i want collage [email](document) give me a procedure.
+- how can I make [library card](document)
+- i want new [library card](document)
+- How to make new [library card](document)
+- I want [library card](document)
+- procedure of making new [library card](document)
+- i need a [library card](document)
+- procedure to find new [library card](document)
+- i want a [bonafite](document)
+- [bonafite](document)
+- [consasion form](document)
+- [library card](document)
+
+
+## intent:number_inquiry
+- i want contact of [d t mane](teacher) sir
+- i need a contact of [a b patil](teacher) ma'am
+- contact of [k s kulkarni](teacher) sir
+- what is a contact of [r j mandle](teacher) sir
+- give me a contact of [d t mane](teacher) sir
+- i want number of [d t mane](teacher) sir
+- i want a number of [k s kulkarni](teacher) sir
+- i want number of [a b patil](teacher) ma'am
+- show me a contact of [r j mandle](teacher) sir
+- can you give me contact of [j p rankhambe](teacher) ma'am
+- i need a contacts.
+- i want a contact of teacher.
+- where i get contacts
+- i want a contact
+- i need contact
+- need contact
+- find a contact for me
+- need help to find contact
+- [a b patil](teacher) mam
+- [d t mane](teacher)
+- [d t mane](teacher)
+- [k s kulkarni](teacher)
+- [a b patil](teacher)
+- [r j mandle](teacher)
+- [a c admute](teacher)
+- [s p patil](teacher)
+- [j p rankhambe](teacher)
+
+## intent:restart
+- yep you can restart
+- Please restart this chat/
+- ok restart please
+- please restart the bot
+- restart this conversation
+- i want to restart
+- why don't you restart????
+- hey, i said restart
+- restart session pls
+- restart ps
+
