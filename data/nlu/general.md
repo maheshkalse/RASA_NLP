@@ -230,6 +230,11 @@
 - sounds good!
 - really
 
+## intent:initgreet
+- init greetings
+- .
+
+
 ## intent:bye
 - Bye
 - Bye bye

@@ -18,6 +18,8 @@ intents:
 - react_negative
 - react_positive
 - thank
+- RIT
+- initgreet
 - restart
 - chitchat/ask_whatspossible
 - chitchat/ask_whatismyname
@@ -65,6 +67,12 @@ slots:
   teacher:
     type: text
 responses:
+  utter_initgreet1:
+  - text: Hi, I'm RITBOT!
+  utter_initgreet2:
+  - text: I can help you about RIT, like Contact Numbers of faculties,Locations on campus and Procedures of documents.
+  utter_RIT:
+  - text: Rajarambapu Institute of Technology, Rajaramnagar (formerly known as College of Engineering) was started in 1983. Located near Islampur. for more information [click here](https://www.ritindia.edu/index.php/about-us/about-rit)
   utter_contact:
   - text: Looking for contact..! please wait..
   utter_bye:
@@ -126,8 +134,6 @@ responses:
     text: Click the button below if you want to start over.
   utter_ask_rephrase:
   - text: I can't understand. can you please rephrase again...
-
-
 actions:
 - action_contact
 - action_location

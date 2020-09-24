@@ -10,6 +10,7 @@
 * bye
   - utter_bye
 
+
 ## procedure path
 * greet
 	- utter_greet
@@ -54,5 +55,11 @@
 * react_negative
     - utter_react_negative
 
+## RIT
+* RIT
+    - utter_RIT
 
-
+## init greet
+* initgreet
+    - utter_initgreet1
+    - utter_initgreet2

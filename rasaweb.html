@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Rasa project</title>
+  <link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="offset-md-5 col-4 ">
+        <h1 class="display-3"><span class="text-primary">RIT</span>BOT</h1>
+      </div>
+    </div>
+  </div>
+
+  <div id="webchat"/>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.5/lib/index.min.js"></script>
+
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "http://localhost:5005",
+    socketPath: "/socket.io/",
+    title: "Title",
+    subtitle: "Subtitle",
+    params: {"storage": "session"}
+  })
+</script>
+
+</body>
+
+</html>

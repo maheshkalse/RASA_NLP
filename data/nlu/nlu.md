@@ -121,3 +121,10 @@
 - restart session pls
 - restart ps
 
+## intent:RIT
+- what is RIT?
+- what is RIT
+- who is RIT
+- what is rit collage
+- tell me about RIT
+- RIT history
